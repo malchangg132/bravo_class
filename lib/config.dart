@@ -1,0 +1,2 @@
+const kSupabaseUrl = 'https://kcvxiqkodrrxgdoicxpj.supabase.co';
+const kSupabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtjdnhpcWtvZHJyeGdkb2ljeHBqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM2MDgzMDIsImV4cCI6MjEwOTE4NDMwMn0.3GZxs4uLAIpmPmBd89bariZ2hPV5np91X5mjwHKczqA'; // anon/public key, BUKAN service_role
